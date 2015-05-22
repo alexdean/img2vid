@@ -14,7 +14,7 @@ If your files don't already have names like this, you can use `sequentialize.rb`
 to make symlinks which will work with `img2vid.sh`.
 
 ```
-$ ./sequentialize.rb ~/Pictures/some_dir
+$ ./sequentialize.rb /home/alex/pics/some_dir
 $ ./img2vid.sh /home/alex/pics/some_dir /home/alex/movies/some_vid.mp4
 ```
 
